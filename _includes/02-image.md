@@ -1,2 +1,2 @@
-! [girl] (https://www.pinterest.com/pin/840062136716391121/)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
